@@ -1,3 +1,0 @@
-0 Focus
-1 Distracted
-2 Not Present
